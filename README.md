@@ -1,2 +1,2 @@
 # ZzzhaoGZ.github.io
-一个居于hugo的个人博客
+一个基于hugo的个人博客
